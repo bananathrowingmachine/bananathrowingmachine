@@ -8,7 +8,7 @@ If you are an employer, I hope to have a fix for that by there being a "everyone
 
 About Me:
 =
-My name is Zachary.
+My name is Zachary. I currently live in Utah, but I grew up in Oregon.
 
 I do things, coding software is one I do quite often. Gaming, mountain biking, skiing, and travelling are others but aren't relevant to this repo. 
 
@@ -23,6 +23,8 @@ Currently I'm most familiar with C++, Python, C#, Java, and Bash however that li
 I definitely prefer working and am better at back-end stuff, however I do have experience with GUI's and can work with them. A lot of the school projects I'm planning on uploading soon (from when I write this) should have GUI aspects.
 
 I also use Ubuntu as my daily driver, so I have some marginal experience in using Linux.
+
+Any public facing university project repos will have the prefix "UniProj-", and I'll do my best to describe what the assignment was in the README.md, and it should have a link to a PDF in the repo will all the details.
 
 Probable future coding projects include:
 =
