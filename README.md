@@ -2,9 +2,7 @@ Welcome to my github account!
 =
 You have either found me from anything I've done on public repos, through links on my other online presences, or are a employer who was linked to this account on my resume. 
 
-Due to this being linked to my online precese somewhat, I have (hopefully) fully anonimzed everything public, including needing to copy the code from private repos with sesitive info in the commit history to public facing repos. 
-
-If you are an employer, I hope to have a fix for that by there being a "everyone with this link can view x private repo" on my resume similar to google docs, where it will link to a private repo with similar links to all my private repos and their public facing versions, but I have no idea if that's possible at this moment in time for personal repos and that this is definitely not be possible for any github school group projects I worked on (since they will auto delete after some time).
+Due to this being linked to my online precese somewhat, I have (hopefully) fully anonimzed everything public, including needing to copy the code from private repos with sensitive info in the commit history to public facing repos. 
 
 About Me:
 =
