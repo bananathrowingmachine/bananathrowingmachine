@@ -2,7 +2,7 @@ Welcome to my github account!
 =
 You have either found me from anything I've done on public repos, through links on my other online presences, or are a employer who was linked to this account on my resume. 
 
-Due to this being linked to my online precese somewhat, I have (hopefully) fully anonimzed everything public, including needing to copy the code from private repos with sensitive info in the commit history to public facing repos. 
+Due to this being linked to my online presence somewhat, I have (hopefully) fully anonimzed everything public, including needing to copy the code from private repos with sensitive info in the commit history to public facing repos. 
 
 About Me:
 =
