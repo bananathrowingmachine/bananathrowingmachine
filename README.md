@@ -18,7 +18,7 @@ Should be quite a few random things running around that I worked on for anyone h
 
 Coding Related Things:
 =
-Currently I'm most familiar with C++, Python, C#, Java, and Bash however that list is bound to expand as time goes on. I've also dabbled in JSON, HTML, Docker, Qt, and probably a few other things I can't remember when I wrote this.
+Currently I'm most familiar with C++, Python, C#, Java, and Shell however that list is bound to expand as time goes on. I've also dabbled in JSON, HTML, Docker, Qt, and probably a few other things I can't remember when I wrote this.
 
 I definitely prefer working and am better at back-end stuff, however I do have experience with GUI's and can work with them. A lot of the school projects I'm planning on uploading soon (from when I write this) should have GUI aspects.
 
