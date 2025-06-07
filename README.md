@@ -20,9 +20,3 @@ I definitely prefer working and am better at back-end stuff, however I do have e
 I also use Ubuntu as my daily driver, so I have some marginal experience in using Linux.
 
 Any public facing university project repos will have the prefix "UniProj-", and I'll do my best to describe what the assignment was in the README.md, and it should have a link to a PDF in the repo will all the details.
-
-Probable future coding projects include:
-=
-Working on a "games" app in C++ that will run at least [Super-Tic-Tac-Toe](https://www.supertictactoe.net/) as well as [Knucklebones](https://knucklebones.io/en/how-to-play), but more games will probably be added later. Good chance I add internet connectivity to it.
-
-Definitely more to come later.
