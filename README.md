@@ -16,3 +16,4 @@ I am a Computer Science undergraduate student passionate about software developm
 
 * **Languages:** C++, C, Python, Java, C#, Shell / Bash
 * **Low-Level & Architecture:** MIPS Assembly, x86_64 Assembly
+* **Other:** Daily driver of Linux, currently using CachyOS and Linux Mint
