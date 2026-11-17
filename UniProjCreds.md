@@ -1,30 +1,41 @@
-My University Projects Credits Record:
-=
-Since I have redacted every university project and all the other authors of said uni projects to keep this account anonymous, this should help group together who I worked with as there are some repeats, as well as give them the credit they deserve. 
+# University Projects: Acknowledgements & Credits
 
-__C++ Fully Functional GUI Apps:__
+To maintain anonymity on this account, project repositories have been sanitized and collaborator names have been omitted. Because several of these projects were built alongside the same teammates across different courses, they are grouped below by team structure to properly highlight our shared work and give credit where it is due.
 
-These are my most recently coded group projects, where I was in a team of 5 total people, same group of people for both projects. I tended to do more of the backend functionality in both, but my code is scattered throughout, as well as my ideas on how to design the projects.
-For the educational app in particular, I helped a lot with refactoring, and reorganizing how the model and view communicated, although we all contributed rather evenly in both projects. Both of these projects were for the same class as well, which had us work in C++.
+---
 
-[Bartending Educational App](https://github.com/bananathrowingmachine/UniProj-EducationalApp)
+## Enterprise & Full-Stack Systems (Junior Year)
 
-[Sprite Editor](https://github.com/bananathrowingmachine/UniProj-SpriteEditor)
+### [Language Management System](https://github.com/bananathrowingmachine/UniProj-LearningManagmentSystem)
+* **Team Structure:** 2-Person Team (Collaborator A — a peer I have worked alongside since freshman year)
+* **Overview & Attribution:** My only group project of junior year, built in close partnership with a long-time teammate. We shared responsibilities for designing and integrating the database architecture before deploying the system live, balancing schema design, backend integration, and deployment with seamless synergy.
 
-__C# Client HTML GUIS:__
+---
 
-These came before, where it was a team of 2 total, same partner for both. The snake game was us 2 for the entire time, whereas the spreadsheet before it was mostly me with us teaming up together to build the GUI (more explained in that repo). Again I tended to be more backend but I helped contribute all over,
-although in my honest opinion the person I worked with for these would take hours out of her day to bugfix and change GUI stuff that I didn't ask or expect her to do which means that I do feel as if I undercontributed. She disagrees however, and I still definitely did a lot of work in the backend so I probably was fine.
-Both of these projects were for the same class as well, which had us work in C#.
+## C++ Desktop & GUI Applications (Sophomore Year)
 
-[Snake Game Client](https://github.com/bananathrowingmachine/UniProj-SnakeGame) 
+Developed for the same C++ software engineering course with a consistent **5-person team** (Collaborators B, C, D, and E). While code, ideas, and design responsibilities were distributed evenly across the team, my primary contributions centered on backend functionality, state logic, and architectural refactoring.
 
-[Spreadsheet](https://github.com/bananathrowingmachine/UniProj-Spreadsheet)
+* **[Bartending Educational App](https://github.com/bananathrowingmachine/UniProj-EducationalApp)**
+  * **Overview & Attribution:** A collaborative GUI application built by all five teammates. Alongside general feature implementation across the codebase, I focused heavily on refactoring and reorganizing communication between the data model and UI views.
+* **[Sprite Editor](https://github.com/bananathrowingmachine/UniProj-SpriteEditor)**
+  * **Overview & Attribution:** Built with the same five-person team, combining shared architectural design with individual feature ownership. My work focused primarily on backend tool logic and state management integrated throughout the application.
 
-__Java Simple Text Generator:__
+---
 
-This will be my oldest project that was of any note. It was to create a simplistic (and fast) text generator, and in fact there was a class leaderboard where each pair was to compete for the fastest time. Out of I think 100-200 groups, me and my partner for this project were in 7th place,
-and even then 2 of the groups ahead of us were actually TA's that knew what they were doing. This partner I worked with for this program is different from all the rest, and overall we had a pretty even split of desinging and writing code. 
-This program is different from the rest in that it does not have GUI functionality and instead uses command line arguments.
+## C# Client & GUI Applications (Sophomore Year)
 
-[Simple Text Generator](https://github.com/bananathrowingmachine/UniProj-SimpleTextGenerator)
+Developed across two projects for the same C# course as a **2-person pair-programming team** (Collaborator F).
+
+* **[Snake Game Client](https://github.com/bananathrowingmachine/UniProj-SnakeGame)**
+  * **Overview & Attribution:** A full-lifecycle team effort from start to finish. While I focused primarily on backend client logic and overall system functionality, my partner dedicated significant extra hours to refining the GUI, squashing visual bugs, and polishing the user experience.
+* **[Spreadsheet Application](https://github.com/bananathrowingmachine/UniProj-Spreadsheet)**
+  * **Overview & Attribution:** Built prior to the Snake client with the same partner. I handled the majority of the initial backend spreadsheet engine and dependency logic before we teamed up together to design, build, and integrate the client GUI.
+
+---
+
+## High-Performance Java Utilities (Freshman Year)
+
+### [Simple Text Generator](https://github.com/bananathrowingmachine/UniProj-SimpleTextGenerator)
+* **Team Structure:** 2-Person Team (Collaborator G — a different partner from the projects above)
+* **Overview & Attribution:** My earliest notable university project, built as a command-line utility without GUI overhead. My partner and I split the algorithm design and implementation evenly, focusing on raw execution speed for a class-wide leaderboard. Out of roughly 100–200 competing groups, our program placed **7th overall** (trailing only a handful of top student teams and course TAs).
